@@ -1,0 +1,13 @@
+{
+  "name": "hello-workshop",
+  "version": "1.0.0",
+  "description": "Workshop express app",
+  "author": "Tamas Csaba",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
